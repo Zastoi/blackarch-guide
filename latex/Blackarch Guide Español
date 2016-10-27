@@ -109,15 +109,15 @@ tabsize=2
 %  Chapter 1       %
 %------------------%
 
-\chapter{Introduction}
+\chapter{Introduccion}
 
-\section{Overview}
-The BlackArch Linux guide is divided into several parts:
+\section{Sumario}
+La guìa de BlackArch Linux  esta organizada en varias partes:
 \begin{itemize}
-\item Introduction - Provides a broad overview, introduction, and additional helpful project information
-\item User Guide - Everything a typical user needs to know to effectively use BlackArch
-\item Developer Guide - How to get started developing for and contributing to BlackArch
-\item Tool Guide - In-depth tool details along example usages (WIP)
+\item Introduccion - Provee una mirada general, introductoria, e informacion adicinal ùtil sobre el proyecto
+\item Guia del Usuario-Todo lo que el usuario tipico de Blackarch Linux debe saber para utilizarlo eficientemente.
+\item Guia del desarrollador-Cómo comenzar a desarrollar y contribuir al proyecto Blackarch Linux.
+\item Guia de herramientas - Detalles en profundidad de las herramientas y ejemplos de uso (WIP)
 \end{itemize}
 
 \section{What is BlackArch Linux?}
